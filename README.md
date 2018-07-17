@@ -6,4 +6,4 @@ MERN - MongoDB, Express, ReactJs, NodeJs
 
 In the project directory, you can run:
 
-### `npm run server`
+### `npm run dev`
