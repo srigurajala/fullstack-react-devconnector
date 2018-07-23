@@ -16,7 +16,7 @@ class Dashboard extends Component {
     if (profile === null || loading) {
       dashboardContent = <Spinner />;
     } else {
-      dashboardContent = <h1>Hello</h1>;
+      dashboardContent = <h1>Hello User</h1>;
     }
 
     return (
